@@ -1,16 +1,15 @@
-# ps_genova
+# Genova PS
 
-A new Flutter project.
+Applicazione mobile multipiattaforma sviluppata in Flutter e Dart che permette di visionare i dati relativi al carico di pazienti presenti nei pronto soccorso degli ospedali dell'area metropolitana di Genova.
 
-## Getting Started
+Il backend è stato realizzato in PHP, ma per motivi di licenza/permessi non è disponbibile
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Anteprima
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Schermata principale](https://raw.githubusercontent.com/RiccardoRiggi/Genova-PS/main/screenshots/img.jpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Licenza
+
+Il progetto viene rilasciato con licenza MIT
