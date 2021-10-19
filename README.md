@@ -2,7 +2,7 @@
 
 Applicazione mobile multipiattaforma sviluppata in Flutter e Dart che permette di visionare i dati relativi al carico di pazienti presenti nei pronto soccorso degli ospedali dell'area metropolitana di Genova.
 
-Il backend è stato realizzato in PHP, ma per motivi di licenza/permessi non è disponbibile
+L'end point per motivi di licenza/permessi non è disponbibile
 
 
 ## Anteprima
